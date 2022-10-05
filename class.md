@@ -1,5 +1,0 @@
-pranitha
-
-omaha
-
-version control 
